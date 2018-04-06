@@ -1,0 +1,62 @@
+
+.main{
+    font-family: 'Bowlby One SC', cursive;
+    margin-top: 20%;
+    color: white;
+    text-align: center;
+}
+
+.main h1{
+    font-size: 6em;
+}
+
+.buttons{
+    margin-top: 100px;
+}
+
+
+.projects{
+    margin-top: 50px;
+    width:100%;
+    margin-bottom: 20px;
+}
+
+
+.contactMe{
+    text-align: center;
+    font-family: 'Righteous';
+    margin-bottom: 40px;
+}
+
+.form-line{
+    border-right: 1px solid #B29999;
+}
+
+.form-left{
+    text-align: center;
+}
+
+
+
+.contact-container{
+	height: 80%;
+	padding-bottom: 30px;
+	position: relative;
+	padding-top: 0px;
+	margin-top: 5%;
+}
+
+.contact-row{
+    width: 100%;
+    text-align: center;
+}
+
+i{
+    font-size: 1.5em;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+textarea.form-control{
+    height: 130px;
+}
